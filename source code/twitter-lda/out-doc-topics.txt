@@ -1,0 +1,6 @@
+#doc name topic proportion ...
+0	file:/Users/sayatsatybaldiyev/Documents/Education/USC/CS544_NLP/Final_Project/mallet/mallet-2.0.7/twitter-demo/data/.DS_Store	2	0.21153846153846154	1	0.21153846153846154	4	0.19230769230769232	3	0.19230769230769232	0	0.19230769230769232	
+1	file:/Users/sayatsatybaldiyev/Documents/Education/USC/CS544_NLP/Final_Project/mallet/mallet-2.0.7/twitter-demo/data/apple	3	0.6180188462422431	2	0.2869455297632728	1	0.0505630889450701	4	0.023098138358997933	0	0.021374396690415996	
+2	file:/Users/sayatsatybaldiyev/Documents/Education/USC/CS544_NLP/Final_Project/mallet/mallet-2.0.7/twitter-demo/data/google	0	0.7325472799439645	2	0.1845668923651646	1	0.030352556619192155	3	0.028834928788232548	4	0.023698342283446184	
+3	file:/Users/sayatsatybaldiyev/Documents/Education/USC/CS544_NLP/Final_Project/mallet/mallet-2.0.7/twitter-demo/data/microsoft	4	0.690454486261232	2	0.23141033988800624	0	0.03516082823284282	3	0.03125406954030473	1	0.011720276077614273	
+4	file:/Users/sayatsatybaldiyev/Documents/Education/USC/CS544_NLP/Final_Project/mallet/mallet-2.0.7/twitter-demo/data/twitter	1	0.7786324786324786	2	0.17115384615384616	0	0.0202991452991453	3	0.01730769230769231	4	0.012606837606837607	

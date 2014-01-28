@@ -1,0 +1,208 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.0" totalTokens="6786" titles="google, android, url, nexus, samsung, sandwich, cream, ice, galaxy, ics">
+	<word weight="0.16312997347480107" count="1107">google</word>
+	<word weight="0.07176539935160625" count="487">android</word>
+	<word weight="0.0614500442086649" count="417">url</word>
+	<word weight="0.03212496315944592" count="218">nexus</word>
+	<word weight="0.02888299440023578" count="196">samsung</word>
+	<word weight="0.02770409666961391" count="188">sandwich</word>
+	<word weight="0.02726201002063071" count="185">cream</word>
+	<word weight="0.02726201002063071" count="185">ice</word>
+	<word weight="0.022988505747126436" count="156">galaxy</word>
+	<word weight="0.018862363689949896" count="128">ics</word>
+	<word weight="0.014736221632773357" count="100">rt</word>
+	<word weight="0.013262599469496022" count="90">icecreamsandwich</word>
+	<word weight="0.007515473032714412" count="51">dhilipsiva</word>
+	<word weight="0.006926024167403478" count="47">galaxynexus</word>
+	<word weight="0.005305039787798408" count="36">search</word>
+	<word weight="0.004420866489832007" count="30">asia</word>
+	<word weight="0.00412614205717654" count="28">seo</word>
+	<word weight="0.00412614205717654" count="28">facebook</word>
+	<word weight="0.0038314176245210726" count="26">sdk</word>
+	<phrase weight="0.011022044088176353" count="11">google samsung</phrase>
+	<phrase weight="0.008016032064128256" count="8">ice cream sandwich</phrase>
+	<phrase weight="0.0070140280561122245" count="7">google android</phrase>
+	<phrase weight="0.006012024048096192" count="6">google facebook</phrase>
+	<phrase weight="0.00501002004008016" count="5">android google</phrase>
+	<phrase weight="0.004008016032064128" count="4">pdf ebook</phrase>
+	<phrase weight="0.004008016032064128" count="4">google icecreamsandwich samsung</phrase>
+	<phrase weight="0.003006012024048096" count="3">android icecreamsandwich</phrase>
+	<phrase weight="0.003006012024048096" count="3">google nexus</phrase>
+	<phrase weight="0.003006012024048096" count="3">infographic url</phrase>
+	<phrase weight="0.003006012024048096" count="3">android galaxy nexus ice cream sandwich pictures</phrase>
+	<phrase weight="0.003006012024048096" count="3">ice cream sandwich google android</phrase>
+	<phrase weight="0.003006012024048096" count="3">android galaxy nexus ice cream sandwich pictures url google icecreamsandwich samsung</phrase>
+	<phrase weight="0.003006012024048096" count="3">url google</phrase>
+	<phrase weight="0.003006012024048096" count="3">google icecreamsandwich</phrase>
+	<phrase weight="0.003006012024048096" count="3">ics google</phrase>
+	<phrase weight="0.003006012024048096" count="3">google google</phrase>
+	<phrase weight="0.002004008016032064" count="2">google rt twandroid</phrase>
+	<phrase weight="0.002004008016032064" count="2">galaxy nexus samsung</phrase>
+	<phrase weight="0.002004008016032064" count="2">android ics</phrase>
+  </topic>
+  <topic id="1" alpha="10.0" totalTokens="4395" titles="twitter, rt, facebook, url, lol, follow, followers, don, autopilot, night">
+	<word weight="0.17565415244596133" count="772">twitter</word>
+	<word weight="0.03640500568828214" count="160">rt</word>
+	<word weight="0.017519908987485778" count="77">facebook</word>
+	<word weight="0.014562002275312855" count="64">url</word>
+	<word weight="0.012514220705346985" count="55">lol</word>
+	<word weight="0.009328782707622298" count="41">follow</word>
+	<word weight="0.008646188850967008" count="38">followers</word>
+	<word weight="0.0072810011376564275" count="32">don</word>
+	<word weight="0.005688282138794084" count="25">autopilot</word>
+	<word weight="0.005460750853242321" count="24">night</word>
+	<word weight="0.005460750853242321" count="24">minutes</word>
+	<word weight="0.005460750853242321" count="24">good</word>
+	<word weight="0.005233219567690558" count="23">put</word>
+	<word weight="0.005005688282138794" count="22">hours</word>
+	<word weight="0.005005688282138794" count="22">free</word>
+	<word weight="0.004550625711035267" count="20">teamfollowback</word>
+	<word weight="0.004550625711035267" count="20">tweets</word>
+	<word weight="0.004550625711035267" count="20">gt</word>
+	<word weight="0.004550625711035267" count="20">people</word>
+	<phrase weight="0.010434782608695653" count="6">free give</phrase>
+	<phrase weight="0.0052173913043478265" count="3">twitter acronyms abbreviations initialisms</phrase>
+	<phrase weight="0.0052173913043478265" count="3">twitter twitter</phrase>
+	<phrase weight="0.0052173913043478265" count="3">promo twitter youtube lock</phrase>
+	<phrase weight="0.0034782608695652175" count="2">subtweeting rt tt</phrase>
+	<phrase weight="0.0034782608695652175" count="2">gettin twitter</phrase>
+	<phrase weight="0.0034782608695652175" count="2">fox news starts twitter spat</phrase>
+	<phrase weight="0.0034782608695652175" count="2">followers unknown</phrase>
+	<phrase weight="0.0034782608695652175" count="2">put twitter autopilot gain followers</phrase>
+	<phrase weight="0.0034782608695652175" count="2">youtube views</phrase>
+	<phrase weight="0.0034782608695652175" count="2">pls music</phrase>
+	<phrase weight="0.0034782608695652175" count="2">free mute</phrase>
+	<phrase weight="0.0017391304347826088" count="1">write twitter foreveralone don</phrase>
+	<phrase weight="0.0017391304347826088" count="1">time make</phrase>
+	<phrase weight="0.0017391304347826088" count="1">ricoo twitter</phrase>
+	<phrase weight="0.0017391304347826088" count="1">fatboyfresh hey brotha forgot twitter twitter</phrase>
+	<phrase weight="0.0017391304347826088" count="1">sex appeal facebook</phrase>
+	<phrase weight="0.0017391304347826088" count="1">johnson twitter gona</phrase>
+	<phrase weight="0.0017391304347826088" count="1">shit twitter hannahmccall ihateitwhen</phrase>
+	<phrase weight="0.0017391304347826088" count="1">damn twitter</phrase>
+  </topic>
+  <topic id="2" alpha="10.0" totalTokens="6617" titles="url, phone, great, time, love, day, tech, users, screen, video">
+	<word weight="0.08447937131630648" count="559">url</word>
+	<word weight="0.02130875018890736" count="141">phone</word>
+	<word weight="0.011787819253438114" count="78">great</word>
+	<word weight="0.009823182711198428" count="65">time</word>
+	<word weight="0.009520930935469246" count="63">love</word>
+	<word weight="0.007707420281094152" count="51">day</word>
+	<word weight="0.007254042617500378" count="48">tech</word>
+	<word weight="0.007254042617500378" count="48">users</word>
+	<word weight="0.006800664953906604" count="45">screen</word>
+	<word weight="0.006800664953906604" count="45">video</word>
+	<word weight="0.00634728729031283" count="42">back</word>
+	<word weight="0.005893909626719057" count="39">people</word>
+	<word weight="0.005742783738854466" count="38">work</word>
+	<word weight="0.005440531963125284" count="36">make</word>
+	<word weight="0.005138280187396101" count="34">wow</word>
+	<word weight="0.0048360284116669185" count="32">don</word>
+	<word weight="0.0048360284116669185" count="32">today</word>
+	<word weight="0.004533776635937736" count="30">fail</word>
+	<word weight="0.004382650748073145" count="29">post</word>
+	<phrase weight="0.009497964721845319" count="7">great tech</phrase>
+	<phrase weight="0.005427408412483039" count="4">great job</phrase>
+	<phrase weight="0.004070556309362279" count="3">email technology</phrase>
+	<phrase weight="0.004070556309362279" count="3">social media</phrase>
+	<phrase weight="0.0027137042062415195" count="2">beautiful smart</phrase>
+	<phrase weight="0.0027137042062415195" count="2">today pacific</phrase>
+	<phrase weight="0.0027137042062415195" count="2">triple lead</phrase>
+	<phrase weight="0.0027137042062415195" count="2">times india</phrase>
+	<phrase weight="0.0027137042062415195" count="2">outlaws respect</phrase>
+	<phrase weight="0.0027137042062415195" count="2">brought nba</phrase>
+	<phrase weight="0.0027137042062415195" count="2">isn working</phrase>
+	<phrase weight="0.0027137042062415195" count="2">timecapsule whats</phrase>
+	<phrase weight="0.0027137042062415195" count="2">system center</phrase>
+	<phrase weight="0.0027137042062415195" count="2">url yeah</phrase>
+	<phrase weight="0.0027137042062415195" count="2">phone ve</phrase>
+	<phrase weight="0.0027137042062415195" count="2">don bus road</phrase>
+	<phrase weight="0.0027137042062415195" count="2">gt gt</phrase>
+	<phrase weight="0.0027137042062415195" count="2">nice screen</phrase>
+	<phrase weight="0.0027137042062415195" count="2">paying things url</phrase>
+	<phrase weight="0.0027137042062415195" count="2">interesting tech</phrase>
+  </topic>
+  <topic id="3" alpha="10.0" totalTokens="5906" titles="apple, iphone, ios, siri, rt, store, update, ipad, steve, jobs">
+	<word weight="0.18845242126650863" count="1113">apple</word>
+	<word weight="0.04927192685404673" count="291">iphone</word>
+	<word weight="0.025397900440230273" count="150">ios</word>
+	<word weight="0.020656959024720624" count="122">siri</word>
+	<word weight="0.016254656281747375" count="96">rt</word>
+	<word weight="0.01388418557399255" count="82">store</word>
+	<word weight="0.011683034202505925" count="69">app</word>
+	<word weight="0.008635286149678293" count="51">update</word>
+	<word weight="0.0077886894683372844" count="46">ipad</word>
+	<word weight="0.007280731459532679" count="43">steve</word>
+	<word weight="0.006942092786996275" count="41">jobs</word>
+	<word weight="0.005756857433118863" count="34">dear</word>
+	<word weight="0.005587538096850661" count="33">icloud</word>
+	<word weight="0.005248899424314257" count="31">genius</word>
+	<word weight="0.005079580088046055" count="30">upgrade</word>
+	<word weight="0.004910260751777853" count="29">apps</word>
+	<word weight="0.004740941415509651" count="28">amazon</word>
+	<word weight="0.004571622079241449" count="27">ipod</word>
+	<word weight="0.0044023027429732475" count="26">touch</word>
+	<phrase weight="0.006688963210702341" count="8">win apple ipod touch mommy gaga pampers world baby memories app</phrase>
+	<phrase weight="0.006688963210702341" count="8">apple store</phrase>
+	<phrase weight="0.005852842809364548" count="7">eric holder spotted genius store</phrase>
+	<phrase weight="0.005852842809364548" count="7">apple iphone</phrase>
+	<phrase weight="0.004180602006688963" count="5">apple siri</phrase>
+	<phrase weight="0.004180602006688963" count="5">dear apple</phrase>
+	<phrase weight="0.0033444816053511705" count="4">steve jobs</phrase>
+	<phrase weight="0.0033444816053511705" count="4">apple ios</phrase>
+	<phrase weight="0.0033444816053511705" count="4">apple app store listed</phrase>
+	<phrase weight="0.0033444816053511705" count="4">directional speech speech translator posts</phrase>
+	<phrase weight="0.0033444816053511705" count="4">chrisvoss apple apple siri iphone ai</phrase>
+	<phrase weight="0.0033444816053511705" count="4">siri angry</phrase>
+	<phrase weight="0.0033444816053511705" count="4">players active</phrase>
+	<phrase weight="0.002508361204013378" count="3">steve photo apple</phrase>
+	<phrase weight="0.002508361204013378" count="3">fab apple</phrase>
+	<phrase weight="0.002508361204013378" count="3">amazon apple</phrase>
+	<phrase weight="0.002508361204013378" count="3">apple apple iphome ios ihs iphone</phrase>
+	<phrase weight="0.002508361204013378" count="3">pull middle</phrase>
+	<phrase weight="0.002508361204013378" count="3">bottom pulls</phrase>
+	<phrase weight="0.002508361204013378" count="3">iphone apple</phrase>
+  </topic>
+  <topic id="4" alpha="10.0" totalTokens="5725" titles="microsoft, url, windows, rt, ballmer, cloud, yahoo, steve, android, ceo">
+	<word weight="0.15842794759825327" count="907">microsoft</word>
+	<word weight="0.07510917030567686" count="430">url</word>
+	<word weight="0.021834061135371178" count="125">windows</word>
+	<word weight="0.019563318777292577" count="112">rt</word>
+	<word weight="0.017467248908296942" count="100">ballmer</word>
+	<word weight="0.010829694323144104" count="62">cloud</word>
+	<word weight="0.010131004366812227" count="58">yahoo</word>
+	<word weight="0.010131004366812227" count="58">steve</word>
+	<word weight="0.0069868995633187774" count="40">android</word>
+	<word weight="0.00611353711790393" count="35">ceo</word>
+	<word weight="0.0055895196506550214" count="32">office</word>
+	<word weight="0.005240174672489083" count="30">xbox</word>
+	<word weight="0.004890829694323144" count="28">phones</word>
+	<word weight="0.004716157205240175" count="27">nokia</word>
+	<word weight="0.004716157205240175" count="27">skype</word>
+	<word weight="0.004716157205240175" count="27">search</word>
+	<word weight="0.004366812227074236" count="25">windowsphone</word>
+	<word weight="0.004366812227074236" count="25">buying</word>
+	<word weight="0.004192139737991266" count="24">lucky</word>
+	<phrase weight="0.007736943907156673" count="8">url microsoft</phrase>
+	<phrase weight="0.004835589941972921" count="5">microsoft windows</phrase>
+	<phrase weight="0.004835589941972921" count="5">eclipsed microsoft url</phrase>
+	<phrase weight="0.0038684719535783366" count="4">microsoft microsoft</phrase>
+	<phrase weight="0.0038684719535783366" count="4">microsoft office</phrase>
+	<phrase weight="0.0038684719535783366" count="4">url microsoft windows</phrase>
+	<phrase weight="0.0038684719535783366" count="4">sizes specs</phrase>
+	<phrase weight="0.0029013539651837525" count="3">lose bn</phrase>
+	<phrase weight="0.0029013539651837525" count="3">microsoft sharepoint</phrase>
+	<phrase weight="0.0029013539651837525" count="3">microsoft lync</phrase>
+	<phrase weight="0.0029013539651837525" count="3">microsoft research</phrase>
+	<phrase weight="0.0029013539651837525" count="3">personalization db</phrase>
+	<phrase weight="0.0019342359767891683" count="2">free windows phones</phrase>
+	<phrase weight="0.0019342359767891683" count="2">paper automated perf</phrase>
+	<phrase weight="0.0019342359767891683" count="2">microsoft netapp</phrase>
+	<phrase weight="0.0019342359767891683" count="2">bunch devices</phrase>
+	<phrase weight="0.0019342359767891683" count="2">windows news microsoft</phrase>
+	<phrase weight="0.0019342359767891683" count="2">powerpoint microsoft</phrase>
+	<phrase weight="0.0019342359767891683" count="2">holiday advertising</phrase>
+	<phrase weight="0.0019342359767891683" count="2">ballmer feels lucky microsoft</phrase>
+  </topic>
+</topics>

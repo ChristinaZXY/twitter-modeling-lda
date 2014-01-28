@@ -1,0 +1,108 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='10.0' totalTokens='6786'>
+	<word rank='1'>google</word>
+	<word rank='2'>android</word>
+	<word rank='3'>url</word>
+	<word rank='4'>nexus</word>
+	<word rank='5'>samsung</word>
+	<word rank='6'>sandwich</word>
+	<word rank='7'>cream</word>
+	<word rank='8'>ice</word>
+	<word rank='9'>galaxy</word>
+	<word rank='10'>ics</word>
+	<word rank='11'>rt</word>
+	<word rank='12'>icecreamsandwich</word>
+	<word rank='13'>dhilipsiva</word>
+	<word rank='14'>galaxynexus</word>
+	<word rank='15'>search</word>
+	<word rank='16'>asia</word>
+	<word rank='17'>seo</word>
+	<word rank='18'>facebook</word>
+	<word rank='19'>sdk</word>
+  </topic>
+  <topic id='1' alpha='10.0' totalTokens='4395'>
+	<word rank='1'>twitter</word>
+	<word rank='2'>rt</word>
+	<word rank='3'>facebook</word>
+	<word rank='4'>url</word>
+	<word rank='5'>lol</word>
+	<word rank='6'>follow</word>
+	<word rank='7'>followers</word>
+	<word rank='8'>don</word>
+	<word rank='9'>autopilot</word>
+	<word rank='10'>night</word>
+	<word rank='11'>minutes</word>
+	<word rank='12'>good</word>
+	<word rank='13'>put</word>
+	<word rank='14'>hours</word>
+	<word rank='15'>free</word>
+	<word rank='16'>teamfollowback</word>
+	<word rank='17'>tweets</word>
+	<word rank='18'>gt</word>
+	<word rank='19'>people</word>
+  </topic>
+  <topic id='2' alpha='10.0' totalTokens='6617'>
+	<word rank='1'>url</word>
+	<word rank='2'>phone</word>
+	<word rank='3'>great</word>
+	<word rank='4'>time</word>
+	<word rank='5'>love</word>
+	<word rank='6'>day</word>
+	<word rank='7'>tech</word>
+	<word rank='8'>users</word>
+	<word rank='9'>screen</word>
+	<word rank='10'>video</word>
+	<word rank='11'>back</word>
+	<word rank='12'>people</word>
+	<word rank='13'>work</word>
+	<word rank='14'>make</word>
+	<word rank='15'>wow</word>
+	<word rank='16'>don</word>
+	<word rank='17'>today</word>
+	<word rank='18'>fail</word>
+	<word rank='19'>post</word>
+  </topic>
+  <topic id='3' alpha='10.0' totalTokens='5906'>
+	<word rank='1'>apple</word>
+	<word rank='2'>iphone</word>
+	<word rank='3'>ios</word>
+	<word rank='4'>siri</word>
+	<word rank='5'>rt</word>
+	<word rank='6'>store</word>
+	<word rank='7'>app</word>
+	<word rank='8'>update</word>
+	<word rank='9'>ipad</word>
+	<word rank='10'>steve</word>
+	<word rank='11'>jobs</word>
+	<word rank='12'>dear</word>
+	<word rank='13'>icloud</word>
+	<word rank='14'>genius</word>
+	<word rank='15'>upgrade</word>
+	<word rank='16'>apps</word>
+	<word rank='17'>amazon</word>
+	<word rank='18'>ipod</word>
+	<word rank='19'>touch</word>
+  </topic>
+  <topic id='4' alpha='10.0' totalTokens='5725'>
+	<word rank='1'>microsoft</word>
+	<word rank='2'>url</word>
+	<word rank='3'>windows</word>
+	<word rank='4'>rt</word>
+	<word rank='5'>ballmer</word>
+	<word rank='6'>cloud</word>
+	<word rank='7'>yahoo</word>
+	<word rank='8'>steve</word>
+	<word rank='9'>android</word>
+	<word rank='10'>ceo</word>
+	<word rank='11'>office</word>
+	<word rank='12'>xbox</word>
+	<word rank='13'>phones</word>
+	<word rank='14'>nokia</word>
+	<word rank='15'>skype</word>
+	<word rank='16'>search</word>
+	<word rank='17'>windowsphone</word>
+	<word rank='18'>buying</word>
+	<word rank='19'>lucky</word>
+  </topic>
+</topicModel>

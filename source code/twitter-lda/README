@@ -1,0 +1,3 @@
+My code contians in the twitter-lda folder. All other is MALLET toolkit software. All data contains in data folder.
+I'm running all toolkit throught bash scripts. Firstly, input.sh for importing data into mallet format. Secondly, train-topics.sh is used to run all LDA analysis on existing imported data. 
+Additionally, I use different python scripts to make CSV file from the Mallet output.
